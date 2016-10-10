@@ -1,4 +1,4 @@
-Git curses
+Git Courses
 
 Este é um repositorio para ensinar como o git funciona.
 
